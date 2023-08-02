@@ -1,0 +1,5 @@
+C:\Users\Merdur\source\repos\SpecFlowProjectMeDirectUI\SpecFlowProjectMeDirectUI\obj\Debug\netcoreapp3.1\SpecFlowProjectMeDirectUI.csproj.AssemblyReference.cache
+C:\Users\Merdur\source\repos\SpecFlowProjectMeDirectUI\SpecFlowProjectMeDirectUI\obj\Debug\netcoreapp3.1\SpecFlowProjectMeDirectUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merdur\source\repos\SpecFlowProjectMeDirectUI\SpecFlowProjectMeDirectUI\obj\Debug\netcoreapp3.1\SpecFlowProjectMeDirectUI.AssemblyInfoInputs.cache
+C:\Users\Merdur\source\repos\SpecFlowProjectMeDirectUI\SpecFlowProjectMeDirectUI\obj\Debug\netcoreapp3.1\SpecFlowProjectMeDirectUI.AssemblyInfo.cs
+C:\Users\Merdur\source\repos\SpecFlowProjectMeDirectUI\SpecFlowProjectMeDirectUI\obj\Debug\netcoreapp3.1\SpecFlowProjectMeDirectUI.csproj.CoreCompileInputs.cache
